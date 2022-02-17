@@ -45,6 +45,7 @@ def sum(a,b):
     print(f'{a} + {b} = {a+b}')
 sum(2, 3)
 
+
 a = input('Pasirink pirma skaisiciu: ')
 b = input('Pasirink antra skaisiciu: ')
 
@@ -52,3 +53,7 @@ def parse(input_string):
     return int(input_string)
 
 sum(parse(a), parse(b))
+
+#more shit
+#more shit 
+
